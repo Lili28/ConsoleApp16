@@ -7,6 +7,7 @@ namespace ConsoleApp16
 		static void Main(string[] args)
 		{
 			Test();
+			Console.WriteLine("Hello");
 		}
 		static void Test()
 		{
